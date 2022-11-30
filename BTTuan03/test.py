@@ -10,3 +10,5 @@ print(mang2, end="\n")
 # Viết chương trình gồm các số nguyên chia hết cho ba.
 mang3 = [x for x in range(100) if x % 3 == 0]
 print(mang3)
+
+
